@@ -1,5 +1,3 @@
-# samples
-Samples for phase 1 submission
 **Fresh Veggies** v1.0.0 - 2016-09-16  
 
 This is a Web App to help people find fresh and cheap vegetables in Chicago.  
